@@ -22,11 +22,14 @@ Welcome to my GitHub! I'm a Software Developer and UI/UX Designer with a drive t
 
 ## 📈 GitHub Stats
 
-![Mimi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amimi-Codes&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&bg_color=00000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amimi-Codes&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&bg_color=00000000&card_width=495)
+
+
 
 ## 🌟 Featured Projects
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name)](https://github.com/yourusername/repo-name)
+[D&D Character Creation Website](https://github.com/Amimi-Codes/DndCharacterCreation)
 
 ---
 
