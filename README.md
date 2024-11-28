@@ -29,7 +29,8 @@ Welcome to my GitHub! I'm a Software Developer and UI/UX Designer with a drive t
 
 ## 🌟 Featured Projects
 
-[D&D Character Creation Website](https://github.com/Amimi-Codes/DndCharacterCreation)
+- [VR Open-Source Tutrial Panel Template](https://github.com/Amimi-Codes/OpenTut) <br>
+- [D&D Character Creation Website](https://github.com/Amimi-Codes/DndCharacterCreation)
 
 ---
 
