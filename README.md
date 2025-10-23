@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm a Software Developer and UI/UX Designer with a drive t
 - [Love and Information Algorithm and Website](https://github.com/Amimi-Codes/Love_and_Information)
 - [VR Open-Source Tutrial Panel Template](https://github.com/Amimi-Codes/OpenTut) <br>
 - [D&D Character Creation Website](https://github.com/Amimi-Codes/DndCharacterCreation)
-- [UI/UX Prototypes and Designs](https://github.com/Amimi-Codes/UI_Designs-)
+- [UI/UX Portfolio](https://github.com/Amimi-Codes/UI_Designs-)
 
 ---
 
